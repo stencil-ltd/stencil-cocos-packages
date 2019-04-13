@@ -1,0 +1,13 @@
+{
+  "name": "widgets",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "scene-script": "scene-script.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/Widget Helper/Fill Parent": {
+      "message": "widgets:fill-parent"
+    }
+  }
+}
